@@ -11,4 +11,4 @@ Motion descriptor: Each frame of clip is divided into 16x16 blocks and a motion 
 
 When a query is provided, the descriptors are extracted for the given video. These are compared against the descriptors of the clips in the database and a ranking of matched videos is obtained.
 
-![UI](/images/UI.png)
+![UI](UI.png)
